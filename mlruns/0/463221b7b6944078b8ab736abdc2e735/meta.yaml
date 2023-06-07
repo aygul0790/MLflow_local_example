@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aygul_unix/Projects/MLflow_local_example/mlruns/0/463221b7b6944078b8ab736abdc2e735/artifacts
+end_time: 1686150544070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 463221b7b6944078b8ab736abdc2e735
+run_name: auspicious-mouse-605
+run_uuid: 463221b7b6944078b8ab736abdc2e735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686150542115
+status: 3
+tags: []
+user_id: aygul_unix

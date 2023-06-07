@@ -1,0 +1,15 @@
+artifact_uri: file:///home/aygul_unix/Projects/MLflow_local_example/mlruns/0/28cda51fb6d04646be8171beb3d8c564/artifacts
+end_time: 1686148337217
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 28cda51fb6d04646be8171beb3d8c564
+run_uuid: 28cda51fb6d04646be8171beb3d8c564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686148334743
+status: 3
+tags: []
+user_id: aygul_unix
